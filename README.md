@@ -38,25 +38,18 @@ Para usar esta aplicación de "Amigo Secreto", sigue los pasos a continuación:
 
 ### 2. Ejecución
 
-Si se trata de una aplicación web:
 - Abre el archivo `index.html` en tu navegador.
-
-Si se trata de un proyecto con servidor:
-- Inicia el servidor con el comando específico (por ejemplo, `npm start` o `python app.py`).
-- Accede a la aplicación en tu navegador usando la URL proporcionada.
 
 ### 3. Uso de la interfaz
 
 1. **Agregar nombres**:
-   - Escribe el nombre de un amigo en el campo de texto.
-   - Haz clic en el botón "Adicionar" para agregarlo a la lista.
+![](https://degarthub.github.io/sorteo-amigo/AgregaAmigo.gif))
 
 2. **Visualizar la lista**:
-   - Los nombres se mostrarán en una lista en pantalla.
+![](https://degarthub.github.io/sorteo-amigo/AgregaAmigo.gif))
 
 3. **Realizar el sorteo**:
-   - Haz clic en el botón "Sortear Amigo" para seleccionar un nombre aleatorio.
-   - El resultado se mostrará claramente en la página.
+ ![](https://degarthub.github.io/sorteo-amigo/SorteaAmigo.gif))
 
 ---
 
